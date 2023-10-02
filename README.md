@@ -1,4 +1,4 @@
-# swiftui-mvvm
+# swiftui-mvvm
 
 - MVVM
 - MoviesApp
